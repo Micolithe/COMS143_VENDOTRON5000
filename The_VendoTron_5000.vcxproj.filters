@@ -27,6 +27,9 @@
     <ClInclude Include="Vendo.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Cash.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +39,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Vendo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cash.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

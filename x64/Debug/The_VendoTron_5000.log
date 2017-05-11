@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  The_VendoTron_5000.cpp
+b:\dropbox\dropbox\school\vendotron\the_vendotron_5000\the_vendotron_5000.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+b:\dropbox\dropbox\school\vendotron\the_vendotron_5000\the_vendotron_5000.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vendo.cpp
+b:\dropbox\dropbox\school\vendotron\the_vendotron_5000\vendo.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+b:\dropbox\dropbox\school\vendotron\the_vendotron_5000\vendo.cpp(71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+The_VendoTron_5000.obj : error LNK2019: unresolved external symbol __imp_mciSendStringW referenced in function "void __cdecl audioThread(bool *)" (?audioThread@@YAXPEA_N@Z)
+B:\Dropbox\Dropbox\School\VENDOTRON\x64\Debug\The_VendoTron_5000.exe : fatal error LNK1120: 1 unresolved externals
