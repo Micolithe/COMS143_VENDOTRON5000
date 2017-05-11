@@ -1,8 +1,0 @@
-﻿  Vendo.cpp
-b:\dropbox\dropbox\school\vendotron\the_vendotron_5000\the_vendotron_5000\vendo.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  The_VendoTron_5000.cpp
-b:\dropbox\dropbox\school\vendotron\the_vendotron_5000\the_vendotron_5000\the_vendotron_5000.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-b:\dropbox\dropbox\school\vendotron\the_vendotron_5000\the_vendotron_5000\the_vendotron_5000.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
-  The_VendoTron_5000.vcxproj -> B:\Dropbox\Dropbox\School\VENDOTRON\The_VendoTron_5000\Debug\The_VendoTron_5000.exe
-  The_VendoTron_5000.vcxproj -> B:\Dropbox\Dropbox\School\VENDOTRON\The_VendoTron_5000\Debug\The_VendoTron_5000.pdb (Full PDB)
